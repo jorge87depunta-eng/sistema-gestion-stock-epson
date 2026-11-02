@@ -40,4 +40,6 @@ Jorge Alberto Monje Pacheco.
 EPSON, sucursal Bahía Blanca.
 
 # Uso de Inteligencia Artificial
-Durante la elaboración del proyecto se utilizaron herramientas de Inteligencia Artificial como asistencia para organizar ideas, revisar la redacción, analizar alternativas de modelado y verificar la coherencia general del trabajo.
+Durante la elaboración del Trabajo Práctico Integrador se utilizaron asistentes de Inteligencia Artificial como herramientas de apoyo para organizar contenidos, revisar la redacción, analizar alternativas de modelado y verificar la coherencia entre las distintas entregas.
+Los prompts utilizados fueron redactados de manera contextualizada.
+Entre las correcciones humanas efectuadas se destacan la delimitación del proyecto a la sucursal Bahía Blanca, la depuración de factores internos y externos del FODA. Las respuestas proporcionadas por los asistentes no fueron incorporadas automáticamente. Los resultados fueron comparados con los apuntes de la asignatura y revisados para corregir conceptos, adaptar la terminología y mantener la coherencia con el caso de estudio.
